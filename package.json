@@ -7,5 +7,10 @@
     "dev:frontend": "bun run --filter frontend dev",
     "dev:backend": "bun run --filter backend dev",
     "build": "bun run --filter '*' build"
+  },
+  "dependencies": {
+    "@elysiajs/cookie": "^0.8.0",
+    "@googleapis/classroom": "^11.1.0",
+    "googleapis": "^171.4.0"
   }
 }
