@@ -13,5 +13,8 @@
     "@elysiajs/cookie": "^0.8.0",
     "@googleapis/classroom": "^11.1.0",
     "googleapis": "^171.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.2"
   }
 }
